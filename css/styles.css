@@ -940,9 +940,6 @@ h2 {
   margin-right: 8px;
 }
 
-.checkbox-icon {
-}
-
 .modal-checkbox:checked + .checkbox-label > .checkbox-label-span {
   background-color: var(--background, #404bbf);
   border: none;
